@@ -5,4 +5,5 @@ def call() {
           --severity HIGH,CRITICAL \
           --exit-code 1 \
           .
+        '''
 }
